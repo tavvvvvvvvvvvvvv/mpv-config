@@ -5,6 +5,7 @@ My personal configuration for [mpv](https://github.com/mpv-player/mpv) forked fr
 
 ## Changes
 - Added proper [Anime4K](https://github.com/bloc97/Anime4K) support (`CTRL+1-6, CTRL+0`)
+- Removed default shaders
 - Changed default `audio` and `subtitle` tracks to load the **default**
 - Removed **proximity** UI functions in exchange for **autohide**
 - Removed **Previous chapter**, **Speed** and **Next chapter** buttons
